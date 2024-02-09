@@ -1,0 +1,11 @@
+*{
+     margin:0;
+     padding:0;
+     box-sizing:border-box;
+}
+body{
+     width:100vw;
+     height:100vh;
+     background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.3)), url('https://armandmanibo.com/wp-content/uploads/2019/07/benefits-of-tracking-your-expenses.png');
+     background-size:cover;
+}
