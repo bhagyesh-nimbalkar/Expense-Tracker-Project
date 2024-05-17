@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^5.0.0",
-    "@material-ui/icons": "^5.0.0",
+    "@material-ui/icons": "^1.13.12",
     "@material-ui/lab": "^5.0.0-alpha.61",
     "@speechly/react-client": "^2.2.4",
     "@speechly/react-ui": "^2.7.5",
