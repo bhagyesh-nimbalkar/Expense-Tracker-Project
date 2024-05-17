@@ -1,6 +1,5 @@
 # Tech Stack
 - React.js
-- Context API
 - Material UI
 - Chart.js
 
